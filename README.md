@@ -37,11 +37,3 @@ This project focuses on the Exploratory Data Analysis (EDA) of a rental dataset 
 ## Conclusion
 This project provided insights into the rental market trends, facilitated better understanding of the data structure, and enhanced visualization skills.
 
-## How to Run
-1. Clone the repository.
-2. Ensure Python and the required libraries (`pandas`, `matplotlib`, `seaborn`) are installed.
-3. Run the Jupyter notebook or Python script to replicate the analysis.
-
-## Future Work
-- Explore advanced machine learning models to predict rental prices.
-- Enhance visualizations with interactive tools like Plotly.
